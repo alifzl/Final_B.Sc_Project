@@ -1,0 +1,36 @@
+ ====================================================== 
+||                                                    ||
+||   Statistical Properties of this simulation run    ||
+||                                                    ||
+ ====================================================== 
+
+
+Number of Agents                 :    60
+Maximum size of social groups    :    10
+Maximum number of Generations    :     8
+Number of individual CultEvo runs:     4
+
+
+
+Values:
+=======
+
+Averages and measures of central location
+.........................................
+
+mean        :   6.00
+median      :   5.00
+mean_low    :   5.00
+mean_high   :   6.00
+mean_grouped:   6.00
+mode        :   5.00
+
+
+
+Measures of spread
+..................
+
+Population standard deviation of data:   1.22
+Population variance of data          :   1.50
+Sample standard deviation of data    :   1.41
+Sample variance of data              :   2.00

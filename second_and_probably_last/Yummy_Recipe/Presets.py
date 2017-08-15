@@ -120,7 +120,7 @@ def create(root, fields):
 root = Tk()
 root.title("Cultural Evolution simulator (Yummy Recipe)")
 root.geometry("480x250")
-
+root.iconbitmap(default='icon.ico')
 # TODO : fix this to plain freakin text
 T = Text(root, height=1, width=500)
 T.pack(side=TOP)

@@ -1,6 +1,6 @@
 # Cultural Algorithms
-this is my Final Project in undergraduate level.
+This is my Final Project in undergraduate level under supervising of [Dr. Mina Zolfy](https://asatid.tabrizu.ac.ir/en/pages/default.aspx?mzolfy).
 
-Report file incuded in "second_and_probably_last" directory (in Persian)
+Comprehensive report file included in "second_and_probably_last" directory (in Persian)
 
 everything is under MIT license. feel free to contribute !
